@@ -13,3 +13,8 @@ go test使用
 ```
 $ go test ./...
 ```
+
+godoc確認
+```
+$ go doc fmt Println
+```
